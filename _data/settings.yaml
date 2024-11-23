@@ -3,17 +3,17 @@
 metadata:
   # site_url should match your full production URL
   site_url: 'https://halide.netlify.app'
-  site_title: Halide
+  site_title: CRASH3CHO
   # site subtitles are optional
-  site_subtitle_1: Image Portfolio
-  site_subtitle_2: Sometown, CA
+  site_subtitle_1: LIGHT CAPTURE
+  site_subtitle_2: NOVA SCOTIA
   # Home page description, accepts markdown
   site_description: >
-    Halide is a customizable Jamstack portfolio website theme designed for photographers and still image creators. Read the docs at [github.com/danurbanowicz/halide](https://github.com/danurbanowicz/halide)
+    Hello, my name is 3. Crash3cho is my small slice of cyberspace. I'm a photographer from Canada. 
   # footer contact email
-  site_email: dan.urbanowicz@gmail.com
+  site_email: 3ark@crashecho.ca
   # footer social link (the social title is defined in the i18n section)
-  site_social_url: 'https://github.com/danurbanowicz/halide'
+  site_social_url: 'https://instagram.com/3ark'
   # SVG image used for sharing/bookmark icons
   site_icon_svg: /assets/uploads/favicon.svg
   # optional PNG image used for sharing/bookmark icons
@@ -23,7 +23,7 @@ metadata:
   # home page SEO fields
   seo:
     # <title> tag
-    site_title: Halide - Jamstack portfolio theme
+    site_title: CRASH3CHO - Photography 
     # meta description
     site_description: >-
       A customizable, minimalist portfolio website designed for photographers and still image creators.
@@ -38,20 +38,20 @@ theme:
   # theme colors can be hex, rgb, rgba or any valid CSS color value
   theme_colors:
     # default colors aka "light mode"
-    background: '#ffffff'
+    background: '#fffcf0'
     text: '#101010'
-    link: '#542BFF'
+    link: '#000000'
     # dark mode colors
-    background_dark: '#101010'
-    text_dark: '#E1E1E1'
+    background_dark: '#100F0F'
+    text_dark: '#CECDC3'
     link_dark: '#FFFFFF'
   theme_typography:
     # font can be any variable Google Font name. Enter 'system' to use a system font stack
-    font: Overpass Mono
+    font: IBM Plex Mono
     # can be any valid variable font weight value e.g. 415
     font_weight: 400
     # adjust font_scale up/down to increase/decrease font size
-    font_scale: 100
+    font_scale: 150
     # adjust line_height_scale up/down to increase/decrease line height
     line_height_scale: 100
     # underline links
@@ -83,7 +83,7 @@ i18n:
   # any valid ISO language code e.g. en or en-US
   site_language: en
   # single-language translations can be defined here
-  site_social_title: GitHub
+  site_social_title: Insta
 # Internal config, hidden from Tina CMS
 config:
   # define responsive image widths for project thumbnails and large images
