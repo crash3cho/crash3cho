@@ -6,15 +6,15 @@ description: >
 year: 2004-Present
 position: 1
 images:
-  - src: /assets/uploads/DieQuick3ARK1.avif
+  - src: /assets/uploads/DieQuick3ARK1.jpg
     caption: Travis, bowl transfer.
-  - src: /assets/uploads/DieQuick3ARK2.avif
+  - src: /assets/uploads/DieQuick3ARK2.jpg
     caption: Ice Clampers.
-  - src: /assets/uploads/DieQuick3ARK3.avif
+  - src: /assets/uploads/DieQuick3ARK3.jpg
     caption: Steel Workers Hall.
-  - src: /assets/uploads/DieQuick3ARK4.avif
+  - src: /assets/uploads/DieQuick3ARK4.jpg
     caption: Dave flowing at speed.
-  - src: /assets/uploads/DieQuick3ARK5.avif
+  - src: /assets/uploads/DieQuick3ARK5.jpg
     caption: Alex is Halloween.
 date: 2023-11-10T12:28:51.623Z
 ---
