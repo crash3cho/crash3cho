@@ -14,8 +14,6 @@ images:
     caption: Steel Workers Hall.
   - src: /assets/uploads/DieQuick3ARK4.jpg
     caption: Dave flowing at speed.
-  - src: /assets/uploads/DieQuick3ARK5.jpg
-    caption: Alex is Halloween.
 date: 2023-11-10T12:28:51.623Z
 ---
 I am a lifelong BMX rider. Like all counter-cultures, if you stay with them long enough you start to see things in a different light.
