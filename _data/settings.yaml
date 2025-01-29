@@ -6,7 +6,7 @@ metadata:
   site_title: CRASH3CHO
   # site subtitles are optional
   site_subtitle_1: LIGHT CAPTURE
-  site_subtitle_2: NOVA SCOTIA
+  site_subtitle_2: "902"
   # Home page description, accepts markdown
   site_description: >
     Hello, my name is 3. Crash3cho is my small slice of cyberspace. I'm a photographer from Canada. 
@@ -26,7 +26,7 @@ metadata:
     site_title: CRASH3CHO - Photography 
     # meta description
     site_description: >-
-      A customizable, minimalist portfolio website designed for photographers and still image creators.
+      CRASH3CHO is the photography portfolio for 3ARK. Exploring the world through photography for over 20 years.
     # Adds a noindex <meta> tag on all site pages, be careful y'all!
     # Instead you can block indexing per-project with no_index: true
     no_index: false
@@ -47,7 +47,7 @@ theme:
     link_dark: '#FFFFFF'
   theme_typography:
     # font can be any variable Google Font name. Enter 'system' to use a system font stack
-    font: IBM Plex Mono
+    font: Cardo
     # can be any valid variable font weight value e.g. 415
     font_weight: 400
     # adjust font_scale up/down to increase/decrease font size
@@ -83,7 +83,7 @@ i18n:
   # any valid ISO language code e.g. en or en-US
   site_language: en
   # single-language translations can be defined here
-  site_social_title: Insta
+  site_social_title: Bluesky
 # Internal config, hidden from Tina CMS
 config:
   # define responsive image widths for project thumbnails and large images
