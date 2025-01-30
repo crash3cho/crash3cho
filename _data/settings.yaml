@@ -5,15 +5,15 @@ metadata:
   site_url: 'https://halide.netlify.app'
   site_title: CRASH3CHO
   # site subtitles are optional
-  site_subtitle_1: LIGHT CAPTURE
-  site_subtitle_2: "902"
+  site_subtitle_1: 3ARK
+  site_subtitle_2: "CAN"
   # Home page description, accepts markdown
   site_description: >
-    Hello, my name is 3. Crash3cho is my small slice of cyberspace. I'm a photographer from Canada. 
+    Crash3cho is my small slice of cyberspace. I'm a photographer from Canada. 
   # footer contact email
   site_email: 3ark@crashecho.ca
   # footer social link (the social title is defined in the i18n section)
-  site_social_url: 'https://instagram.com/3ark'
+  site_social_url: 'https://bsky.app/profile/crash3cho.bsky.social'
   # SVG image used for sharing/bookmark icons
   site_icon_svg: /assets/uploads/favicon.svg
   # optional PNG image used for sharing/bookmark icons
@@ -47,9 +47,9 @@ theme:
     link_dark: '#FFFFFF'
   theme_typography:
     # font can be any variable Google Font name. Enter 'system' to use a system font stack
-    font: Cardo
+    font: Fraunces
     # can be any valid variable font weight value e.g. 415
-    font_weight: 400
+    font_weight: 900
     # adjust font_scale up/down to increase/decrease font size
     font_scale: 150
     # adjust line_height_scale up/down to increase/decrease line height
