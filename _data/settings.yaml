@@ -47,9 +47,9 @@ theme:
     link_dark: '#FFFFFF'
   theme_typography:
     # font can be any variable Google Font name. Enter 'system' to use a system font stack
-    font: Fraunces
+    font: Host Grotesk
     # can be any valid variable font weight value e.g. 415
-    font_weight: 900
+    font_weight: 600
     # adjust font_scale up/down to increase/decrease font size
     font_scale: 150
     # adjust line_height_scale up/down to increase/decrease line height
