@@ -5,11 +5,11 @@ metadata:
   site_url: 'https://halide.netlify.app'
   site_title: CRASH3CHO
   # site subtitles are optional
-  site_subtitle_1: 3ARK
-  site_subtitle_2: "CAN"
+  site_subtitle_1: CANADA
+  site_subtitle_2: 3ARK
   # Home page description, accepts markdown
   site_description: >
-    Crash3cho is my small slice of cyberspace. I'm a photographer from Canada. 
+    Crash3cho is my small slice of cyberspace. I'm a photographer from Canada.
   # footer contact email
   site_email: 3ark@crashecho.ca
   # footer social link (the social title is defined in the i18n section)
